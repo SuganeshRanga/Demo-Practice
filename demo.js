@@ -13,4 +13,5 @@ function countAlpha(myName) {
   const myName = 'Give a name';
   const counts = countAlpha(myName);
   output(counts);
+  //added code2
   
