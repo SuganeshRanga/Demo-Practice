@@ -10,7 +10,7 @@ function countAlpha(myName) {
     const result = JSON.stringify(object,null,2);
     console.log(result);
   }
-  const myName = 'suganesh ranga';
+  const myName = 'Give a name';
   const counts = countAlpha(myName);
   output(counts);
   
